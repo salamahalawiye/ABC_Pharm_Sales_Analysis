@@ -1,0 +1,241 @@
+ProductID,ProductName,ProductClass
+PR001,Topipizole,Mood Stabilizers
+PR002,Choriotrisin,Antibiotics
+PR003,Acantaine,Antibiotics
+PR004,Lioletine Refliruvax,Analgesics
+PR005,Oxymotroban Fexoformin,Analgesics
+PR006,Pazofenac,Mood Stabilizers
+PR007,Symbitrim,Analgesics
+PR008,Morphizolid Tianalin,Mood Stabilizers
+PR009,Lovapur,Mood Stabilizers
+PR0010,Ampysin,Analgesics
+PR0011,Trazobalamin,Mood Stabilizers
+PR0012,Atrabicin Alkerotec,Antiseptics
+PR0013,Exotropin Empizine,Mood Stabilizers
+PR0014,Afinitasol,Antipiretics
+PR0015,Amavirase,Antipiretics
+PR0016,Neuropogen Empibax,Analgesics
+PR0017,Tracdomide,Antipiretics
+PR0018,Novakyn Tracprox,Antiseptics
+PR0019,Paronium Atracustone,Analgesics
+PR0020,Dantocept Ferurenone,Antiseptics
+PR0021,Aciprex,Antipiretics
+PR0022,Diaxolol,Antiseptics
+PR0023,Saprodeine Zanprosyn,Antibiotics
+PR0024,Magnemunex,Antiseptics
+PR0025,Pitodomide,Antimalarial
+PR0026,Malaxolol Aeroprosyn,Antiseptics
+PR0027,Tetratanyl,Antimalarial
+PR0028,Spiroderall,Mood Stabilizers
+PR0029,Formolovir Amanferon,Analgesics
+PR0030,Panpion,Antiseptics
+PR0031,Dorzovorin Pentadarone,Antimalarial
+PR0032,Comzyme,Antibiotics
+PR0033,Aldevac,Analgesics
+PR0034,Invisteride Diclomycin,Mood Stabilizers
+PR0035,Ergomethate,Mood Stabilizers
+PR0036,Theopril,Antipiretics
+PR0037,Ketastadil,Analgesics
+PR0038,Methiclotide,Antibiotics
+PR0039,Propratecan,Antimalarial
+PR0040,Lovavatol Azelavarix,Mood Stabilizers
+PR0041,Symbiroban,Antibiotics
+PR0042,Afaxacin,Analgesics
+PR0043,Testant,Mood Stabilizers
+PR0044,Temasone Thiobucil,Antimalarial
+PR0045,Propralamide Dexlanzolam,Mood Stabilizers
+PR0046,Abobozolid,Antimalarial
+PR0047,Choriogestrel,Antiseptics
+PR0048,Factofribrate,Mood Stabilizers
+PR0049,Sanctumine,Antimalarial
+PR0050,Epzipitant,Analgesics
+PR0051,Relenstrel Exurabine,Antibiotics
+PR0052,Kiovax Tercorolac,Analgesics
+PR0053,Biotasol Siloderm,Antiseptics
+PR0054,Cogxone Levanide,Antimalarial
+PR0055,Finanel,Antimalarial
+PR0056,Enzastryl,Antiseptics
+PR0057,Palodizem,Mood Stabilizers
+PR0058,Penitrana,Analgesics
+PR0059,Alemtuvatol Megalinum,Analgesics
+PR0060,Pentastrin,Antibiotics
+PR0061,Ultrimax Ultriset,Antiseptics
+PR0062,Benzoprox,Antiseptics
+PR0063,Alimmethate Insudase,Analgesics
+PR0064,Acelimus,Analgesics
+PR0065,Argalazine Abostryl,Antipiretics
+PR0066,Zithrotrol,Antiseptics
+PR0067,Lansostral Acgestin,Antiseptics
+PR0068,Amamadin,Antimalarial
+PR0069,Travosoline Capolac,Antipiretics
+PR0070,Adalatamine,Antiseptics
+PR0071,Androporin,Antiseptics
+PR0072,Fosinofen,Antipiretics
+PR0073,Zonixamine Immulinum,Analgesics
+PR0074,Diprotaine,Antiseptics
+PR0075,Veratorol Ciclovatol,Mood Stabilizers
+PR0076,Trazozaprine,Mood Stabilizers
+PR0077,Ciclonazol,Antiseptics
+PR0078,Symdocet,Antipiretics
+PR0079,Pulmogen Alitora,Antiseptics
+PR0080,Amphesirox,Antiseptics
+PR0081,Sucprine Specbalamin,Antiseptics
+PR0082,Clinolan Pitoletra,Mood Stabilizers
+PR0083,Insozyme,Antiseptics
+PR0084,Ganineva Agenium,Antiseptics
+PR0085,Kinenadryl,Antipiretics
+PR0086,Lansopril Acribax,Antipiretics
+PR0087,Solasteride,Mood Stabilizers
+PR0088,Malavirine Alimdine,Mood Stabilizers
+PR0089,Adtiza Gammaluble,Antibiotics
+PR0090,Diazemid Felcept,Analgesics
+PR0091,Xenaderal,Mood Stabilizers
+PR0092,Algluconium Dorzofoxin,Antibiotics
+PR0093,Nevanide Actozide,Antibiotics
+PR0094,Sumanazole,Analgesics
+PR0095,Ranediol,Antibiotics
+PR0096,Clindaracil,Analgesics
+PR0097,Ampinonide,Antimalarial
+PR0098,Magneprex,Antimalarial
+PR0099,Kinerinex,Antiseptics
+PR00100,Abranatal Lysoprosate,Antiseptics
+PR00101,Adriafinil Ehtymara,Antiseptics
+PR00102,Zarostral,Antipiretics
+PR00103,Antaparin Varizyme,Mood Stabilizers
+PR00104,Adriacaine,Mood Stabilizers
+PR00105,Lacoplex Hyaluvance,Mood Stabilizers
+PR00106,Ionclotide,Analgesics
+PR00107,Bexridol,Antipiretics
+PR00108,Proderal,Antiseptics
+PR00109,Imiformin Transmunex,Antibiotics
+PR00110,Hepavice,Mood Stabilizers
+PR00111,Thionide,Analgesics
+PR00112,Requimadin,Antimalarial
+PR00113,Amcibax Amcikeran,Analgesics
+PR00114,Factolamide,Antiseptics
+PR00115,Duraprazole Agalsixolol,Antiseptics
+PR00116,Effidomide Evofribrate,Antiseptics
+PR00117,Decidenu Galantrigine,Antipiretics
+PR00118,Alpradipine,Analgesics
+PR00119,Alglutriptan,Analgesics
+PR00120,Stelazolid,Antimalarial
+PR00121,Ceretosine,Antiseptics
+PR00122,Alisteride Pemidizem,Antiseptics
+PR00123,Antilamin Clinbital,Antibiotics
+PR00124,Tacrodomide,Antipiretics
+PR00125,Interzide,Antimalarial
+PR00126,Rebedase Aplencor,Mood Stabilizers
+PR00127,Menogine,Antiseptics
+PR00128,Interfeferon Aspipex,Antiseptics
+PR00129,Effigine Propraprex,Antimalarial
+PR00130,Travoloride,Antiseptics
+PR00131,Eproline,Antibiotics
+PR00132,Primatate Univatol,Mood Stabilizers
+PR00133,Fentatrol Rapatelase,Antibiotics
+PR00134,Metapatch,Antipiretics
+PR00135,Adrecetam Barazoxane,Antimalarial
+PR00136,Symbisine Prednimadin,Mood Stabilizers
+PR00137,Tiaracil,Antipiretics
+PR00138,Ceftatana Serolamide,Antipiretics
+PR00139,Diprolimus,Antiseptics
+PR00140,Aclonuma,Antimalarial
+PR00141,Claricriptine Adaferol,Antibiotics
+PR00142,Dantolac Pazocor,Analgesics
+PR00143,Topifribrate,Analgesics
+PR00144,Halciramine,Antimalarial
+PR00145,Pulmofine,Antibiotics
+PR00146,Afretosine,Mood Stabilizers
+PR00147,Lactubucil,Antipiretics
+PR00148,Aprerase,Antipiretics
+PR00149,Acubulin,Antipiretics
+PR00150,Doxivorin,Antimalarial
+PR00151,Ribabyclor,Antiseptics
+PR00152,Aggretisol,Antimalarial
+PR00153,Proprabax,Analgesics
+PR00154,Zonitonin,Antiseptics
+PR00155,Cephovelam,Mood Stabilizers
+PR00156,Aquamycin Lacoran,Analgesics
+PR00157,Asparathasone Unipan,Antibiotics
+PR00158,Halcifergen Nevazone,Antimalarial
+PR00159,Zynosine,Antimalarial
+PR00160,Victomine,Antimalarial
+PR00161,Araxetine,Antibiotics
+PR00162,Feruprazole,Mood Stabilizers
+PR00163,Quiniprosyn,Antiseptics
+PR00164,Aggrakine,Antiseptics
+PR00165,Afluferon Entrarenone,Antimalarial
+PR00166,Megenorphine,Antimalarial
+PR00167,Allomenda,Antipiretics
+PR00168,Zyvance,Analgesics
+PR00169,Angioparin Brimosumab,Mood Stabilizers
+PR00170,Imiderm Vibranovate,Antipiretics
+PR00171,Atomorelin,Analgesics
+PR00172,Fentalac,Antipiretics
+PR00173,Microroban Afatigomar,Antimalarial
+PR00174,Tetalamide,Antibiotics
+PR00175,Lovephilus,Analgesics
+PR00176,Ibrulinum,Antipiretics
+PR00177,Immurenol Temarate,Antipiretics
+PR00178,Dexmebital Acanplan,Analgesics
+PR00179,Interfedox Pilobamol,Antiseptics
+PR00180,Docstryl Rivacin,Antiseptics
+PR00181,Alarudin Azarolac,Mood Stabilizers
+PR00182,Alpharolac,Antipiretics
+PR00183,Presetron,Mood Stabilizers
+PR00184,Apronazol,Antibiotics
+PR00185,Raparidol,Mood Stabilizers
+PR00186,Dexmeprazole Transnuvia,Mood Stabilizers
+PR00187,Acycpex,Mood Stabilizers
+PR00188,Flutacerol,Analgesics
+PR00189,Cortirodine Alimcline,Antipiretics
+PR00190,Syntheruvax Proracin,Antimalarial
+PR00191,Victomax,Analgesics
+PR00192,Abilovir Aprotasol,Antipiretics
+PR00193,Arivac,Antimalarial
+PR00194,Albudazole Erobloc,Antiseptics
+PR00195,Rositroban,Mood Stabilizers
+PR00196,Betanem,Analgesics
+PR00197,Liomulin,Mood Stabilizers
+PR00198,Cyclovital,Antimalarial
+PR00199,Relenvice,Antimalarial
+PR00200,Abtasol,Antiseptics
+PR00201,Lovepion,Antiseptics
+PR00202,Ibruferon,Antiseptics
+PR00203,Hydroxyprosyn,Antibiotics
+PR00204,Primapion,Antibiotics
+PR00205,Ketamara Evogel,Antipiretics
+PR00206,Hemavate Spirolinum,Mood Stabilizers
+PR00207,Exexone,Mood Stabilizers
+PR00208,Darlofen,Antipiretics
+PR00209,Robapril,Antipiretics
+PR00210,Quixitriptan Alanesin,Antiseptics
+PR00211,Thalilamide,Antibiotics
+PR00212,Tesnorphine Silotamine,Antibiotics
+PR00213,Sodinel Olofribrate,Antimalarial
+PR00214,Sevotrana Tiafoxin,Analgesics
+PR00215,Amlominphen Dexanovate,Analgesics
+PR00216,Belavarix Benzabicin,Antibiotics
+PR00217,Acycnafine Microvate,Mood Stabilizers
+PR00218,Cricane Acamsumab,Antiseptics
+PR00219,Sevoderm,Antipiretics
+PR00220,Abatatriptan,Antibiotics
+PR00221,Adideine,Mood Stabilizers
+PR00222,Topitaine,Mood Stabilizers
+PR00223,Claripenem,Antibiotics
+PR00224,Xenaminphen,Antimalarial
+PR00225,Dasagestin,Analgesics
+PR00226,Pulmodiol Adalaxime,Analgesics
+PR00227,Albuterenone,Antimalarial
+PR00228,Apromin,Antiseptics
+PR00229,Clinicilin Pentozone,Antimalarial
+PR00230,Secrelazine Insonamic,Antipiretics
+PR00231,Aspinavir Silovance,Antibiotics
+PR00232,Interfestar,Antibiotics
+PR00233,Nisorase,Antibiotics
+PR00234,Dexacilin Triline,Analgesics
+PR00235,Vibratosine Alemtrace,Antibiotics
+PR00236,Agalsiline,Mood Stabilizers
+PR00237,Cordamectin Actolamin,Antipiretics
+PR00238,Cephozumab Synmethate,Antibiotics
+PR00239,Kinovatol,Analgesics
+PR00240,Brimorix Amonine,Antibiotics

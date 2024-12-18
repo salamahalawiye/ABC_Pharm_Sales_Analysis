@@ -1,0 +1,5 @@
+ChannelID,Channel,SubChannel
+CH001,Hospital,Private
+CH002,Pharmacy,Retail
+CH003,Pharmacy,Institution
+CH004,Hospital,Government
