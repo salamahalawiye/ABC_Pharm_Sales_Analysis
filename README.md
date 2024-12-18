@@ -30,5 +30,8 @@ This analysis aimed at understanding the sales performance between different cus
 - Leverage the data obtained on classes of drugs based on location during the distribution process. Antiseptics are highly purchased in Ludwigshafen as compared to Bottrop. Also, analgesics and antiseptics are common in urban areas. Distribution should be prioritized to these fast-moving locations as compared to the slow-moving ones.
 - Retail pharmacies and public hospitals should be the priority during distribution, a bulk of the revenue comes from both location.
 - Implement strategies by Brittany Bold and her team members, which account for the bulk of revenue made. Incentives can be given to Brittany Bold’s team to encourage them and motivate other managers and their team members to do better in their locations.
+![image](https://github.com/user-attachments/assets/31b0030b-71e9-445a-8e1a-10972192d0ee)
+![image](https://github.com/user-attachments/assets/98d0abbb-dec6-4a47-b7de-583fa4028467)
+
 
 
