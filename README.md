@@ -37,6 +37,9 @@ This analysis aimed at understanding the sales performance between different cus
 - For Poland, sales were only recorded in 2018 and the highest class of drugs sold is antiseptics (6m) and mood stabilizers (2.6m) in November.
 ![image](https://github.com/user-attachments/assets/31b0030b-71e9-445a-8e1a-10972192d0ee)
 ![image](https://github.com/user-attachments/assets/98d0abbb-dec6-4a47-b7de-583fa4028467)
+![image](https://github.com/user-attachments/assets/0d38347b-6312-4e1e-9f64-bb12bead9e66)
+![image](https://github.com/user-attachments/assets/14d7aca0-d01d-4551-9553-3dcffb64b9b9)
+![image](https://github.com/user-attachments/assets/6ea86230-82e6-4b92-8c7c-b78e84311107)
 
 # Key Takeaways
 - Sales depend on location as it plays a huge role in the class of drugs largely purchased in that vicinity.
