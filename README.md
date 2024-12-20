@@ -35,7 +35,7 @@ This analysis aimed at understanding the sales performance between different cus
 - The top 3 product classes for each year by revenue are Analgesics (2.3bn), Antiseptics (2.2bn), and mood stabilizers (2bn).
 - Germany accounted for 11bn (94%) of the revenue while Poland had only 680million (6%) in revenue.
 - For Poland, sales were only recorded in 2018 and the highest class of drugs sold is antiseptics (6m) and mood stabilizers (2.6m) in November.
-![image](https://github.com/user-attachments/assets/31b0030b-71e9-445a-8e1a-10972192d0ee)
+![image](https://github.com/user-attachments/assets/bc1536e2-9a10-4c64-ba92-222e9f3bb0b7)
 ![image](https://github.com/user-attachments/assets/98d0abbb-dec6-4a47-b7de-583fa4028467)
 ![image](https://github.com/user-attachments/assets/0d38347b-6312-4e1e-9f64-bb12bead9e66)
 ![image](https://github.com/user-attachments/assets/14d7aca0-d01d-4551-9553-3dcffb64b9b9)
