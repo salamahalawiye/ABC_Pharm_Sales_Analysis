@@ -41,6 +41,12 @@ This analysis aimed at understanding the sales performance between different cus
 ![image](https://github.com/user-attachments/assets/14d7aca0-d01d-4551-9553-3dcffb64b9b9)
 ![image](https://github.com/user-attachments/assets/6ea86230-82e6-4b92-8c7c-b78e84311107)
 
+# Statistical Analysis
+- This shows a positive correlation between the quantity of products and sales. There is also a positive correlation between the price of products and sales.
+  
+![image](https://github.com/user-attachments/assets/3735ba79-d2d2-4812-bc05-399432491a87)
+![image](https://github.com/user-attachments/assets/ff96496c-5c32-4d07-a9ea-57723c1acc5e)
+
 # Key Takeaways
 - Sales depend on location as it plays a huge role in the class of drugs largely purchased in that vicinity.
 - The Channel of distribution has an impact on revenue as analysis has shown Pharmacy have the highest revenue as compared to Hospitals. The same way government hospitals generate higher revenue as compared to private (the population is higher in government hospitals).
